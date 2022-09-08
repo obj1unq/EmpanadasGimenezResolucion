@@ -37,3 +37,4 @@ test "Galvan gasta 20.000 contrae deuda" {
   assert.equals(0, galvan.dinero())
 }
 
+//COMPLETAR EL RESTO DE TEST para practicar!
